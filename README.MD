@@ -1,4 +1,7 @@
-# Self-Solving Maze  
+# maze
+Maze generator with auto-resolve
+
+# Purpose of Self-Solving Maze  
 Purpose was to just practice several programming skills related primarily to abstraction, inheritance, recursion. Also garnered a bit more familarity  
 with the tkinkter module as well.  
 
